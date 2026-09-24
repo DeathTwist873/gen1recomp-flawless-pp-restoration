@@ -1,0 +1,19 @@
+{
+  "id": "flawless_pp_restorer",
+  "name": "Flawless PP Restorer",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 125,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Restores +2 PP to the finishing move when knocking out an opponent without taking damage during that turn.",
+  "affects_link": false
+}
